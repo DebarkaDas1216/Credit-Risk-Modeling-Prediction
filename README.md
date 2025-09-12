@@ -66,8 +66,6 @@ Delivered a scalable ML pipeline that can be retrained on new data.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/credit-risk-modeling.git
-cd credit-risk-modeling
 
 
 # Install dependencies:
